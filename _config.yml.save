@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Matthew Rogers"
+title                    : "Matthew Rogers Blog"
 title_separator          : "-"
 name                     : &name "Matthew Rogers"
-description              : &description "Cyber Security research website for Matthew Rogers"
+description              : &description "Academic Website for my publications, talks, and thoughts. Mostly focused on Cyber Security"
 url                      : https://matthewrekos.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Links"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Links to the limited places to find me around the internet"
-  location         : "University of Oxford"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
-  pubmed           : 
-  googlescholar    : 
-  email            :  matthew.rogers@cs.ox.ac.uk
+  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "matthewRekos"
+  github           : "academicpages"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@matthewRekos"
+  twitter          : "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
